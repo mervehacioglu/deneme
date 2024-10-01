@@ -1,0 +1,14 @@
+.list {
+    display: flex ;
+    gap: 25px ; 
+    justify-content: center;
+    color: brown;
+    font-family: fantasy ;
+}
+.baslik {
+    margin: 0px; 
+    padding: 2px; 
+    font-family: fantasy;
+    color: brown;
+    font-size: 25px;
+}
