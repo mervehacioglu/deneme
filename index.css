@@ -1,9 +1,10 @@
 .list {
     display: flex ;
-    gap: 25px ; 
+    gap: 50px ; 
     justify-content: center;
     color: brown;
     font-family: fantasy ;
+    list-style: none;
 }
 .baslik {
     margin: 0px; 
@@ -11,4 +12,22 @@
     font-family: fantasy;
     color: brown;
     font-size: 25px;
+}
+.aside {
+    display: flex ;
+    justify-content: center;
+    gap: 20px;
+}
+
+.foto {
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.firstword {
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(98, 25, 25);
+    margin-top: 60px;
+    margin-right: 80px;
+    margin-left: 70px;
 }
